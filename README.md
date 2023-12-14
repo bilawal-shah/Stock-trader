@@ -1,9 +1,13 @@
 
-### To run the code type the following command in terminal 
 
+## Project setup
+```
+npm install
+```
 
-
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+
 
